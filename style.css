@@ -21,7 +21,7 @@ html{
     flex-direction: column;
     height:745px;
     position: relative; 
-    background-image:linear-gradient(to bottom right, rgb(187, 255, 0),rgb(5, 125, 101));
+    background-image:linear-gradient(to right, rgb(185, 225, 41),rgb(185, 225, 41),rgb(59, 125, 5));
 } 
 .nav-bar {
     width: 100%;
@@ -459,8 +459,10 @@ html{
     margin:auto;
 }
 .appointment_form_area {
-    background-image: linear-gradient(to top right,rgb(187, 255, 0),rgb(5, 125, 101));
-    border: 2px solid rgb(137, 218, 31) ;
+/*     background-image: linear-gradient(to top right,rgb(187, 255, 0),rgb(5, 125, 101));
+    border: 2px solid rgb(137, 218, 31) ; */
+    background-image:linear-gradient(to top right, rgb(185, 225, 41),rgb(179, 225, 41),rgb(5, 125, 101));
+    border: 2px solid  rgb(185, 225, 41) ;
     border-radius: 5px;
     padding: 60px 100px;
     margin-bottom: 20px;
